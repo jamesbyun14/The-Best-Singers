@@ -47,7 +47,7 @@ export const popular = [
     number: 2,
     name: "Justin Bieber",
     country: "Canada",
-    img: "/Canada.png",
+    img: "/canada.png",
     link: "https://www.google.com/search?q=Justin+Bieber",
   },
   {
